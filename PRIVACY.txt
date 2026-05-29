@@ -1,0 +1,28 @@
+# Privacy Notice
+
+## Emotion Tracker - Your Privacy
+
+### What data is collected:
+- Camera images for emotion detection (momentary only)
+- Emotion detection results (stored locally)
+
+### What data is NOT collected:
+- Your images are NOT sent to any server
+- Your personal information is NOT collected
+- NO data is sent to the internet
+
+### Data storage:
+- All data is stored only on your computer
+- CSV files are stored in data/ folder
+- You can delete these files at any time
+
+### Security:
+- Application only accesses your camera
+- No internet connection established
+- All processing is done locally
+
+### Contact us:
+If you have questions about privacy:
+- Email: mrasolesfandiari@gmail.com
+
+Last updated: January 2025
